@@ -1,0 +1,30 @@
+# 本仓库只收 Markdown 文档
+# 原始参考资料（PDF/Word/压缩包/例程）不入库
+
+*.pdf
+*.PDF
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.exe
+*.bin
+*.hex
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# 系统与编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
